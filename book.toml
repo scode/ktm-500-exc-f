@@ -1,0 +1,15 @@
+[book]
+title = "2025 KTM 500 EXC-F - Unofficial Owner's Guide"
+authors = ["scode"]
+language = "en"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+git-repository-url = "https://github.com/scode/ktm-500-exc-f"
+edit-url-template = "https://github.com/scode/ktm-500-exc-f/edit/main/{path}"
+site-url = "/ktm-500-exc-f/"
+default-theme = "light"
+preferred-dark-theme = "ayu"
